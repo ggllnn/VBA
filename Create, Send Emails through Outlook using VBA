@@ -1,3 +1,5 @@
+'Microsoft Outlook Object Library will be required
+
 Sub Email_Send()
 
     Dim OutApp As Object
